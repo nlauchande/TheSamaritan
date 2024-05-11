@@ -1,2 +1,2 @@
 # TheSamaritan
-My own rogue dev bot - trying many to please it's masters.
+My own rogue dev bot - trying intensely to please it's masters.
